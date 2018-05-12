@@ -1,2 +1,2 @@
-# DataScientistToolbox
+# DataScientistsToolbox
 Course repository
